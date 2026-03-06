@@ -63,4 +63,4 @@ Bank-Marketing-ML-App
 
 This project demonstrates how machine learning can be applied to marketing data to predict customer behavior. By comparing multiple algorithms, the Random Forest model provided the best results for predicting customer subscription.
 
-Dataset: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+Dataset: https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
